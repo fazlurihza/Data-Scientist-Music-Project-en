@@ -10,7 +10,7 @@ Pada hari Senin pagi, penduduk Springfield dan Shelbyville mendengarkan genre ya
 Pendengar di kota Springfield dan Shelbyville memiliki preferensi yang berbeda. Di Springfield, para pengguna lebih suka musik pop, sementara di Shelbyville musik rap memiliki lebih banyak penggemar.
 
 **Deskripsi data**
-Data yang kamu butuhkan disimpan dalam file  /datasets/music_project_en.csv. Kamu juga bisa mengunduhnya di sini.
+Dataset music_project_en.csv.
 
 **Deskripsi kolom:**
 
